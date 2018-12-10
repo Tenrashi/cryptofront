@@ -7,7 +7,7 @@ Here is my contribution, I'm not sure I understood clearly what you wanted but I
 It will run the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Please don't forget to:
+Please don't forget to: 
 
 ### `npm install`
 
